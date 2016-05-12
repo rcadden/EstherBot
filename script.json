@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Ricky, a Digital Marketer from Fort Worth, TX.\n![ricky](https://github.com/rcadden/EstherBot/blob/master/img/ricky%20caddensq.png)\nWant to know more about bots or learn about Ricky? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Ricky](postback:learn_about_ricky)",
+    "BOT": "Hi there!\nI’m the personal bot of Ricky, a Digital Marketer from Fort Worth, TX.\n![ricky](https://github.com/rcadden/EstherBot/blob/master/img/ricky%20caddensq.png)\nWant to know more about bots or learn about Ricky? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Ricky2](postback:learn_about_ricky)",
     "HELLO": "Hey, I'm so glad you stopped by to chat! Do you want to tell Ricky that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Ricky so he knows you're chatting with me. Here's a tweet that's ready to go: %[Tweet Ricky](http://bit.ly/220rog4)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
