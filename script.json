@@ -1,10 +1,15 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Ricky, a Digital Marketer from Fort Worth, TX.\n![ricky](https://github.com/rcadden/EstherBot/blob/master/img/ricky%20caddensq.png)\nWant to know more about bots or learn about Ricky? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Ricky](postback:learn_about_ricky) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Ricky, a Digital Marketer from Fort Worth, TX.\n![ricky](https://github.com/rcadden/EstherBot/blob/master/img/ricky%20caddensq.png)\nWant to know more about bots or learn about Ricky? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Ricky](postback:learn_about_ricky)",
     "HELLO": "Hey, I'm so glad you stopped by to chat! Do you want to tell Ricky that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Ricky so he knows you're chatting with me. Here's a tweet that's ready to go: %[Tweet Ricky](http://bit.ly/220rog4)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RickyBot is back.",
     "I'M HERE FOR THE BOT": "Great! Ricky used these instructions to setup his own bot, and then customized it. And now you're chatting with it. %[Gimme Those Instructions](http://lifehacker.com/how-i-turned-my-resume-into-a-chat-bot-1775565350)",
-    "LEARN ABOUT RICKY": "I know Ricky pretty intimately.\nDo you want to learn more about Ricky's personal life, or his professional skills? %[Personal Life](postback:personal_life) %[Professional Skills](postback:professional_skills)"
+    "LEARN ABOUT RICKY": "I know Ricky pretty intimately.\nDo you want to learn more about Ricky's personal life, or his professional skills? %[Personal Life](postback:personal_life) %[Professional Skills](postback:professional_skills)",
+    "PERSONAL LIFE": "Ricky is quite the cool dude.\nIn 2008, he married his wife Christina - want to see her? %[YES] (postback:yes_christina) %[NO](postback:no_christina)",
+    "YES_CHRISTINA": "! [christina] (IMAGEPLACEHOLDER)\n She's quite the looker, isn't she?",
+    "NO_CHRISTINA": "Your loss.\nRicky also has two beautiful daughters, Reese and Norah Kate. Want to see them? %[YES] (postback:yes_kids) %[NO](postback:no_kids)",
+    "YES_KIDS": "![reese] (IMAGEPLACEHOLDER)\n That's Reese \n ![norah] (IMAGEPLACEHOLDER) \n and that's Norah Kate.",
+    "NO_KIDS": "Not a "kid person" are you?"
 }
