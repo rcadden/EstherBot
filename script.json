@@ -11,5 +11,5 @@
     "YES_CHRISTINA": "! [christina] (IMAGEPLACEHOLDER)\n She's quite the looker, isn't she?",
     "NO_CHRISTINA": "Your loss.\nRicky also has two beautiful daughters, Reese and Norah Kate. Want to see them? %[YES] (postback:yes_kids) %[NO](postback:no_kids)",
     "YES_KIDS": "![reese] (IMAGEPLACEHOLDER)\n That's Reese \n ![norah] (IMAGEPLACEHOLDER) \n and that's Norah Kate.",
-    "NO_KIDS": "Not a "kid person" are you?"
+    "NO_KIDS": "Not a 'kid person' are you?"
 }
