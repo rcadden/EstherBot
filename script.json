@@ -8,8 +8,8 @@
     "I'M HERE FOR THE BOT": "Great! Ricky used these instructions to setup his own bot, and then customized it. And now you're chatting with it. %[Gimme Those Instructions](http://lifehacker.com/how-i-turned-my-resume-into-a-chat-bot-1775565350)",
     "LEARN ABOUT RICKY": "I know Ricky pretty intimately.\nDo you want to learn more about Ricky's personal life, or his professional skills? %[Personal Life](postback:personal_life) %[Professional Skills](postback:professional_skills)",
     "PERSONAL LIFE": "Ricky is quite the cool dude.\nIn 2008, he married his wife Christina - want to see her? %[YES](postback:yes_christina) %[NO](postback:no_christina)",
-    "YES_CHRISTINA": "! [christina](IMAGEPLACEHOLDER)\n She's quite the looker, isn't she?",
-    "NO_CHRISTINA": "Your loss.\nRicky also has two beautiful daughters, Reese and Norah Kate. Want to see them? %[YES](postback:yes_kids) %[NO](postback:no_kids)",
-    "YES_KIDS": "![reese](IMAGEPLACEHOLDER)\n That's Reese \n ![norah](IMAGEPLACEHOLDER) \n and that's Norah Kate.",
-    "NO_KIDS": "Not a 'kid person' are you?"
+    "YES CHRISTINA": "! [christina](IMAGEPLACEHOLDER)\n She's quite the looker, isn't she?",
+    "NO CHRISTINA": "Your loss.\nRicky also has two beautiful daughters, Reese and Norah Kate. Want to see them? %[YES](postback:yes_kids) %[NO](postback:no_kids)",
+    "YES KIDS": "![reese](IMAGEPLACEHOLDER)\n That's Reese \n ![norah](IMAGEPLACEHOLDER) \n and that's Norah Kate.",
+    "NO KIDS": "Not a 'kid person' are you?"
 }
