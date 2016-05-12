@@ -13,13 +13,13 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Ricky? Just say HELLO to get started.')
+            return bot.say('So you want to learn about Ricky?')
                 .then(() => 'askName');
         }
     },
 
     askName: {
-        prompt: (bot) => bot.say('Before we get started, what\'s your name?'),
+        prompt: (bot) => bot.say('I can help with that, but before we get started, what\'s your name?'),
         receive: (bot, message) => {
             const name = message.text;
             return bot.setProp('name', name)
@@ -54,7 +54,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Sorry, Ricky hasn't programmed me to respond to that yet.`).then(() => 'speak');
+                    return bot.say(`Sorry ${name}, Ricky hasn't programmed me to respond to that yet.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
